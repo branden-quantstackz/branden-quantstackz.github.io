@@ -32,6 +32,12 @@
 
 -------------------------------------------------------------------*/
 
+/*======= Text Justify ========*/
+.text-justify {
+  text-align: justify;
+}
+
+
 /*======= 1.Reset ======== */
 body {
   font-family: 'Roboto', sans-serif;
