@@ -1,6 +1,6 @@
 <?php
 define("ZDAPIKEY", "M3o0sve6YjGxyBwqhHkq5CfkO74ghjkO67jdtNvP");
-define("ZDUSER", "brandenocon");
+define("ZDUSER", "branden@quantstackz.com");
 define("ZDURL", "https://quantstackz.zendesk.com/api/v2");
 
 
