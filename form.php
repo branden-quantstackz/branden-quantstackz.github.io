@@ -1,7 +1,8 @@
 <?php
-define("ZDAPIKEY", "YOURAPIKEY");
-define("ZDUSER", "YOURUSERNAME");
-define("ZDURL", "https://SUBDOMAIN.zendesk.com/api/v2");
+define("ZDAPIKEY", "M3o0sve6YjGxyBwqhHkq5CfkO74ghjkO67jdtNvP");
+define("ZDUSER", "brandenocon");
+define("ZDURL", "https://quantstackz.zendesk.com/api/v2");
+
 
 function curlWrap($url, $json)
 {
