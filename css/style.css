@@ -987,6 +987,22 @@ textarea.form-control {
 }   
 }
 
+
+.iInstagram .fa{
+    color               : #007bb7;
+    border              :2px solid #007bb7;
+}
+
+.iInstagram .fa:hover{
+    
+    background-color        :#007bb7;    
+    color                   : #fff;
+    border                  : 1px solid #007bb7;
+
+}
+
+
+
 .ifacebook .fa{
     color               :#3B5998;
     border              :2px solid #3B5998;
